@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1584205420 source:d:\tp codeblocks\tubes aka\main.cpp
+	<iostream>
+
+1734965693 source:d:\tp codeblocks\tubes aka\perbandingan.cpp
+	<iostream>
+	<vector>
+	<chrono>
+	<algorithm>
+	<random>
+	<iomanip>
+
+1734965615 source:d:\tp codeblocks\tubes aka\rekursive.cpp
+	<iostream>
+	<vector>
+
+1734965705 source:d:\tp codeblocks\tubes aka\iteratif.cpp
+	<iostream>
+	<vector>
+
